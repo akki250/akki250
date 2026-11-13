@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Aakarsh Yadav, a first-year Computer Engineering student at NMIMS MPSTME, Navi Mumbai. <br>I build full-stack web apps <br>(React, TypeScript, FastAPI, MongoDB) <br>and wire up ESP32 and Arduino hardware to see if the code survives the real world. <br>I also work on web development and content for the IEEE Student Branch at my college.<br>
+I’m Aakarsh Yadav, a first-year Computer Engineering student at NMIMS MPSTME, Navi Mumbai. <br>I build full-stack web apps <br>(React, TypeScript, FastAPI, MongoDB) <br>and wire up ESP32 and Arduino hardware to see if the code survives the real world. <br>I also work on web development for the IEEE Student Branch at my college.<br>
 
 
 ## 🌐 Socials:
